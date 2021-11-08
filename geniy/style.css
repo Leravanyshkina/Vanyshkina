@@ -1,0 +1,120 @@
+.flexbox{
+    width: 1200px;
+    height: 100px;
+    background-color: hotpink;
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+    text-align: center;
+    
+    }
+.Punkt{
+    width: 450px;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 50px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-top: -600px;
+    margin-left: 500px;
+    background-color: yellowgreen;
+    width: 750px;
+    height: 600px;
+}
+.p1:hover{
+    font-size: 20px;
+    }
+.p2:hover{
+    font-size: 20px;
+    }
+.p3:hover{
+    font-size: 20px;
+    }
+.p4:hover{
+    font-size: 20px;
+     }
+.p5:hover{
+    font-size: 20px;
+    }
+.img{
+    position: relative;
+    margin-left: 20px ;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    }
+.cont{
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        margin-top: 300px;
+        margin-left: -60px;
+        font-size: 25px;
+    }
+.kv1 {
+    background: black;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 450px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content:  space-between; 
+
+}
+.kv2 {
+    background: black;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 25px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content:  space-between; 
+
+}
+.kv3 {
+    background: black;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -400px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content:  space-between; 
+
+}
+.kv1:hover{
+    width: 26%;
+    height: 160px;
+    
+}
+.kv2:hover{
+    width: 26%;
+    height: 160px;
+    
+}
+.kv3:hover{
+    width: 26%;
+    height: 160px;
+    
+}
+.end{
+    width: 1200px;
+    height: 100px;
+    background-color: hotpink;
+    margin-top: -22px;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+
+
+
+   
