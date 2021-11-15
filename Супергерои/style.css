@@ -1,0 +1,314 @@
+.america{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 0px;
+    background: rgb(224,63,251);
+    background: linear-gradient(0deg, rgba(224,63,251,1) 0%, rgba(70,110,252,1) 100%);
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+}
+.one{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 215px;
+    font-size: 20px;
+}
+.two{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 270px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto{
+    position: absolute;
+   
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.next{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 450px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(136,28,28);
+    background: linear-gradient(28deg, rgba(136,28,28,1) 0%, rgba(253,65,45,1) 78%);
+}
+.three{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.four{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 280px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto2{
+    position: absolute;
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.tetya{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 900px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(36,0,9);
+background: linear-gradient(104deg, rgba(36,0,9,1) 20%, rgba(105,33,96,1) 100%);
+}
+.five{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 240px;
+    font-size: 20px;
+}
+.six{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 240px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto3{
+    position: absolute;
+    width: 140px;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.payk{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 1350px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(0,0,0);
+background: linear-gradient(357deg, rgba(0,0,0,1) 7%, rgba(253,65,45,1) 100%);
+}
+.seven{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.eight{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 280px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto4{
+    position: absolute;
+    width: 250px;
+    margin-top: -15px;
+    margin-left: -40px
+}
+
+
+.america1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 0px;
+    background: rgb(224,63,251);
+    background: linear-gradient(0deg, rgba(224,63,251,1) 0%, rgba(70,110,252,1) 100%);
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+}
+.one{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 215px;
+    font-size: 20px;
+}
+.two{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 270px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto{
+    position: absolute;
+   
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.next1{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 450px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(136,28,28);
+    background: linear-gradient(28deg, rgba(136,28,28,1) 0%, rgba(253,65,45,1) 78%);
+}
+.three{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.four{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 280px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto2{
+    position: absolute;
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+.tetya1{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 0px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(36,0,9);
+background: linear-gradient(104deg, rgba(36,0,9,1) 20%, rgba(105,33,96,1) 100%);
+}
+.five{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 240px;
+    font-size: 20px;
+}
+.six{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 240px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto3{
+    position: absolute;
+    width: 140px;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.payk1{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 450px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(0,0,0);
+background: linear-gradient(357deg, rgba(0,0,0,1) 7%, rgba(253,65,45,1) 100%);
+}
+.seven{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.eight{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 280px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto4{
+    position: absolute;
+    width: 250px;
+    margin-top: -15px;
+    margin-left: -40px
+}
+.geroi{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.hulk{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 900px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(0,0,0);
+background: linear-gradient(73deg, rgba(0,0,0,1) 7%, rgba(48,140,33,1) 100%);
+ }
+.fa1 {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 285px;
+    font-size: 20px;
+}
+.fa2{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 280px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto5{
+    position: absolute;
+   
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+
+ }
+ .end{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 900px;
+    border-radius: 5%;
+    width: 400px;
+    height: 200px;
+    color: white;
+    background: rgb(0,0,0);
+background: linear-gradient(54deg, rgba(0,0,0,1) 7%, rgba(235,157,21,1) 100%);
+ }
+ .fa3 {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 240px;
+    font-size: 20px;
+}
+.fa4{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 240px;
+    font-size: 15px;
+    color: rgb(202, 202, 202);
+}
+.foto6{
+    position: absolute;
+   
+    width: 170px;
+    margin-top: -15px;
+    margin-left: 10px;
+
+ }
