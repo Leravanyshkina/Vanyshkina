@@ -1,0 +1,116 @@
+.computer1{
+    width: 350px;
+    height: 540px;
+    position: absolute;
+    background: #fff;
+    border: solid 2px #c9c9c9;
+    border-radius: 25px;
+    top: 30px;
+    left: 30px;
+}
+.asus{
+    position: relative;
+    width: 82px;
+    height: 40px;
+    top: 5PX;
+    left: 250px;
+    background: rgb(182, 20, 182);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.lin{
+   color: #fff;
+}
+.foto{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.price{
+    position: relative;
+    width: 82px;
+    height: 40px;
+    top: 50PX;
+    left: 20px;
+    background: rgb(240, 219, 33);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    color: #202020;
+}
+.REVIEWS{
+    color: #a09e9e;
+    position: relative;
+    top: 30px;
+    left: 245px;
+}
+.notebook{
+    color: #a09e9e;
+    position: relative;
+    width: 300px;
+    height: 100px;
+    top: 34px;
+    left: 34px;
+    font-size: 17px;
+}
+.add{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    background: rgb(240, 219, 33);
+    top: 30PX;
+    left: 70px;
+}
+.na{
+    color: #202020;
+    text-decoration: none;
+}
+.bibi-question-circle-fill{
+    position: relative;
+    top: 35px;
+    left: 29px;
+    color: #a09e9e;
+}
+.bibi-heart{
+    position: relative;
+    top: 35px;
+    left: 275px;
+    color: rgb(214, 66, 66); 
+}
+.computer2{
+    width: 350px;
+    height: 540px;
+    position: absolute;
+    background: #fff;
+    border: solid 2px #c9c9c9;
+    border-radius: 25px;
+    top: 30px;
+    left: 450px;
+}
+.computer3{
+    width: 350px;
+    height: 540px;
+    position: absolute;
+    background: #fff;
+    border: solid 2px #c9c9c9;
+    border-radius: 25px;
+    top: 30px;
+    left: 870px;
+}
+.computer4{
+    width: 350px;
+    height: 540px;
+    position: absolute;
+    background: #fff;
+    border: solid 2px #c9c9c9;
+    border-radius: 25px;
+    top: 30px;
+    left: 1290px;
+}
