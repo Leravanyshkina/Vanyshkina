@@ -1,0 +1,3383 @@
+.valanta{
+    position: absolute;
+    width: 131px;
+    height: 72px;
+    left: 80px;
+    top: 17px;
+    background: url(./photo5395504429278541767.jpg);
+}
+.ua{
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 285px;
+    top: 28px;
+    
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F1F1F;   
+}
+
+.ru{
+    position: absolute;
+    width: 24px;
+    height: 21px;
+    left: 284px;
+    top: 51px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    background: rgb(92, 129, 17);
+}
+
+.usd{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+
+.eur{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 54px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.bibi-facebook{
+    position: absolute;
+    left: 500px;
+    top: 40px;
+    bottom: 0%;
+}
+.bibi-instagram{
+    position: absolute;
+    left: 530px;
+    top: 40px;
+    bottom: 24.3%;
+    
+}
+.bibi-youtube{
+    position: absolute;
+    left: 560px;
+    top: 40px;
+    bottom: 18.06%;
+}
+.nomera{
+    position: absolute;
+    left: 680px;
+    top: 24px;
+}
+.n044{
+    position: absolute;
+    width: 128px;
+    height: 21px;
+    left: 4px;
+    top: 29px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #393939;
+}
+.n068{
+    position: absolute;
+    width: 120px;
+    height: 21px;
+    left: 7px;
+    top: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #393939;   
+}
+.telefon{
+    position: absolute;
+    width: 30px;
+    left: 850px;
+    top: 40px;
+    bottom: 68.39%;   
+}
+.Maistra{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 990px;
+    top: 23px;
+    background: #EFF3F6;
+    border-radius: 2px; 
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.maictr{
+    position: absolute;
+    width: 145px;
+    right: 50px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: #373737;
+}
+.kvadrat{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 240px;
+    top: 0px;
+    background: #DD4053;
+    border-radius: 2px;
+}
+.bibi-calendar-check{
+    position: absolute;
+    left: 36.63%;
+    top: 30.82%;
+    bottom: 25.31%;
+    color: #FFFFFF;
+}
+.turi{
+    position: absolute;
+    width: 240px;
+    height: 55px;
+    left: 1380px;
+    top: 23px;
+    background: #EFF3F6;
+    border-radius: 2px; 
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.tur{
+    position: absolute;
+    width: 118px;
+    height: 20px;
+    left: 65px;
+    top: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #373737;
+}
+.kvadrat2{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 240px;
+    top: 0px;
+    background: #4AD295;
+    border-radius: 2px;
+}
+.bibi-search{
+    position: absolute;
+    left: 107.63%;
+    top: 37.82%;
+    bottom: 25.31%;
+    color: #FFFFFF;
+}
+.next{
+    border: solid 0.5px rgb(100, 95, 95) ;
+    position: relative;
+    top: 130px;
+    width: 1900px;
+
+}
+.bibi-search1{
+    position: absolute;
+    left: 170px;
+    top: 160px;
+    color: #343434;
+}
+.menu{
+    position: absolute;
+    top: 160px;
+    left: 240px;
+    display: flex;
+    justify-content: space-around;
+}
+.f1{
+    color: #616161;
+    text-decoration: none;
+    position: relative;   
+}
+.f2{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f3{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f4{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f5{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f6{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f7{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f8{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.f9{
+    color: #616161;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.kartinka{
+    background: linear-gradient(180deg, rgba(224,63,251,0) 33%, rgba(0,0,0,0.7875525210084033) 89%), url(./kartinka.png);
+    position: absolute;
+    width: 1900px;
+    height: 490px;
+    left: 10px;
+    top: 230px;
+    display: inline-block;  
+	line-height: 0;
+}
+.kartinka:after {
+	content: "";
+	display: block;    
+	width: 100%;
+	height: 100%;    
+	position: absolute;
+	top: 0;      
+	left: 0;   
+	background: transparent;
+	background-image: linear-gradient(to left, #fcfcfc00, #2421214d);
+	opacity: 0.8;
+}
+.ot300{
+    position: absolute;
+    width: 249px;
+    height: 45px;
+    left: 199px;
+    top: 130px;
+    font-size: 24px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;   
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.new{
+    position: absolute;
+    width: 645px;
+    height: 102px;
+    left: 195px;
+    top: 235px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.more{  
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 200px;
+    top: 377px;
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 2px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.podrobn{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.grey{
+    position: absolute;
+    width: 1900px;
+    height: 450px;
+    left: 10px;
+    top: 720px;
+    background: #F8F8F8;    
+}
+.turoperator{
+    position: absolute;
+    width: 624px;
+    height: 72px;
+    left: 198px;
+    top: 60px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    color: #1D1D1D;
+}
+.mir{
+    position: absolute;
+    width: 620px;
+    height: 28px;
+    left: 198px;
+    top: 177px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 28px;
+    color: #777777;
+}
+.otkr{
+    font-size: 20px;
+}
+.heart{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 884px;
+    top: 100px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.bibi-heart-fill{
+    position: absolute;
+    left: 33%;
+    top: 38.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.chek{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 884px;
+    top: 200px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}  
+.bibi-person-check-fill{
+    position: absolute;
+    left: 39%;
+    top: 34.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+} 
+.star{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 884px;
+    top: 300px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%;  
+}
+.bibi-star-fill{
+    position: absolute;
+    left: 35%;
+    top: 34.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.podhod{
+    position: absolute;
+    width: 370px;
+    height: 198px;
+    left: 949px;
+    top: 78px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 88px;
+    color: #3D3D3D;
+}
+.knopka1{
+    position: absolute;
+    width: 270px;
+    height: 50px;
+    left: 198px;
+    top: 310px;
+    background: #BDBDBD;
+    border-radius: 2px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+.knopka1:hover{
+    background: white;
+    color: rgb(58, 37, 92);
+}
+.knopka2:hover{
+    background: #BDBDBD;
+    color: #FFFFFF;
+}
+.what{
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 9px;
+    font-size: 21px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.knopka2{
+    position: absolute;
+    width: 220px;
+    height: 50px;
+    left: 498px;
+    top: 310px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #969696; 
+}
+.konsul{
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 13px;   
+    font-size: 21px;
+    color: #969696; 
+    text-decoration: none;
+}
+.luch{
+    position: absolute;
+    width: 411px;
+    height: 43px;
+    left: 198px;
+    top: 1250px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    color: #232323;
+}
+.bibi-arrow-left-circle{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 709px;
+    top: 998px;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 800px;
+    top: 998px;
+    color: #C6C6C6;
+    box-sizing: border-box; 
+}
+.bibi-arrow-left-circle:hover{
+    color: #202020;
+}
+.bibi-arrow-right-circle:hover{
+    color: #202020;
+}
+.strelki{
+    position: absolute;
+    top: 250px;
+}
+.palka{
+    position: absolute;
+    width: 340px;
+    height: 1px;
+    left: 1050px;
+    top: 1022px;
+    background: #C4C4C4;
+}
+.vseturi{
+    position: absolute;
+    width: 140px;
+    height: 45px;
+    left: 1600px;
+    top: 1250px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;   
+    color: #969696;
+    
+}
+.vseturi:hover{
+    background: #969696;
+    color: #fff;
+}
+.vse{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 9px;
+    color: #969696;
+    text-decoration: none;
+    height: 50px;
+}
+.vse:hover{
+    color: #fff; 
+}
+.nomer1{
+    position: absolute;
+    width: 460px;
+    height: 450px;
+    left: 50px;
+    top: 1400px;
+    background: linear-gradient(180deg, rgba(224,63,251,0) 33%, rgba(0,0,0,0.7875525210084033) 89%), url(./01_Valamar-Dubrovnik-President-Beach-Night_Dean-Tosovic_Valamar_riviera_dd\ 1.png);
+}
+.portnov{
+    position: absolute;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 30px;
+    background: rgba(0, 0, 0, 0.35);
+}
+.port{
+    font-size: 16px;
+}
+.stars1{
+    position: absolute;
+    width: 100px;
+    height: 5px;
+    right: 0%;
+    top: 155px;
+    left: 175px;
+    bottom: 0%;
+    color:  #FFD600;
+    font-size: 40px;
+}
+.Portonovi{
+    position: absolute;
+    width: 249px;
+    height: 34px;
+    left: 106px;
+    top: 220px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;   
+}
+
+.nomer2{
+    position: absolute;
+    width: 460px;
+    height: 450px;
+    left: 710px;
+    top: 1400px;
+    background: linear-gradient(180deg, rgba(224,63,251,0) 33%, rgba(0,0,0,0.7875525210084033) 89%), url(./276398231\ 2.png);
+}
+.portnov2{
+    position: absolute;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 30px;
+    background: rgba(0, 0, 0, 0.35);
+}
+.port2{
+    font-size: 16px;
+}
+.stars2{
+    position: absolute;
+    width: 123px;
+    height: 5px;
+    right: 0%;
+    top: 155px;
+    left: 170px;
+    bottom: 0%;
+    color:  #FFD600;
+    font-size: 30px;
+}
+.zimovka{
+    position: absolute;
+    width: 249px;
+    height: 34px;
+    left: 106px;
+    top: 220px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;   
+}
+
+.nomer3{
+    position: absolute;
+    width: 460px;
+    height: 450px;
+    left: 1420px;
+    top: 1400px;
+    background: linear-gradient(180deg, rgba(224,63,251,0) 33%, rgba(0,0,0,0.7875525210084033) 89%), url(./c41c4172\ 1.png);
+}
+.portnov3{
+    position: absolute;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 30px;
+    background: rgba(0, 0, 0, 0.35);
+}
+.port3{
+    font-size: 16px;
+}
+.stars3{
+    position: absolute;
+    width: 100px;
+    height: 5px;
+    right: 0%;
+    top: 155px;
+    left: 175px;
+    bottom: 0%;
+    color:  #FFD600;
+    font-size: 40px;
+}
+.lechenie{ 
+    position: absolute;
+    width: 249px;
+    height: 34px;
+    left: 106px;
+    top: 220px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;   
+}
+.aktualochka{
+    position: absolute;
+    width: 478px;
+    height: 55px;
+    left: 200px;
+    top: 1945px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    color: #232323;
+}
+.palochka{
+    position: absolute;
+    width: 340px;
+    height: 1px;
+    left: 900px;
+    top: 1970px;
+    background: #C4C4C4;   
+}
+.turchiki{
+    position: absolute;
+    width: 140px;
+    height: 45px;
+    left: 1500px;
+    top: 1950px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #969696
+}
+.turchiki:hover{
+    background: #969696;
+    color: #fff;
+}
+.serenkiy{
+    position: absolute;
+    width: 327px;
+    height: 540px;
+    left: 200px;
+    top: 2050px;
+    background: #F8F8F8;
+}
+.foto{
+    position: absolute;
+    width: 327px;
+    height: 250px;
+    left: 0px;
+    top: 0px;
+    background: url(./mandarina\ 2.png);
+}
+.only{
+    position: absolute;
+    width: 350px;
+    height: 34px;
+    left: 30px;
+    top: 276px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #323232;
+    text-transform: uppercase;
+}
+.text{
+    position: absolute;
+    width: 309px;
+    height: 34px;
+    left: 22px;
+    top: 340px;
+    font-family: Open Sans;
+    color: #848484;
+}
+.temn{
+    position: absolute;
+    width: 195px;
+    height: 30px;
+    left: 0px;
+    top: 20px;
+    background: rgba(0, 0, 0, 0.35);
+    text-align: center;
+    color: #fff;
+}.razm{
+    font-size: 14px;
+    position: relative;
+    top: 5px;
+}
+.price{
+    position: absolute;
+    width: 73px;
+    height: 32px;
+    left: 60px;
+    top: 450px;
+    font-family: Montserrat;
+    font-style: normal;
+    color: #DD4053;
+}
+.ot{
+    position: absolute;
+    width: 18px;
+    height: 34px;
+    right: 80px;
+    top: 8px;
+    font-family: Montserrat;
+    color: #DD4053;
+}
+.polosa{
+    position: absolute;
+    width: 280px;
+    height: 1px;
+    left: 23px;
+    top: 425px;
+    background: #E8E8E8;
+}
+.zanomer{
+    position: absolute;
+    width: 183px;
+    height: 34px;
+    left: 30px;
+    top: 500px;
+    font-family: Open Sans;
+    color: #C9C9C9;
+}
+.may{
+    position: absolute;
+    width: 83px;
+    height: 36px;
+    left: 220px;
+    top: 460px;
+    font-family: Open Sans;
+    color: #3E3E3E;
+}
+.serenkiy2{
+    position: absolute;
+    width: 327px;
+    height: 540px;
+    left: 757px;
+    top: 2050px;
+    background: #F8F8F8;
+}
+.foto2{
+    position: absolute;
+    width: 327px;
+    height: 250px;
+    left: 0px;
+    top: 0px;
+    background: url(./1491655\ 1.png);
+}
+.serenkiy3{
+    position: absolute;
+    width: 327px;
+    height: 540px;
+    left: 1315px;
+    top: 2050px;
+    background: #F8F8F8;
+}
+.foto3{
+    position: absolute;
+    width: 327px;
+    height: 250px;
+    left: 0px;
+    top: 0px;
+    background: url(./276398231\ 2.png);
+}
+.Naftalan{
+    position: relative;
+    right: 20px;
+}
+.bibi-arrow-left-circle1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 2275px;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1710px;
+    top: 2275px;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle1:hover{
+    color: #202020;
+}
+.bibi-arrow-left-circle1:hover{
+    color: #202020;
+}
+.osnova{
+    position: absolute;
+    width: 1442px;
+    height: 140px;
+    left: 200px;
+    top: 2686px;
+    background: #F8F8F8;
+}
+.serpolosa{
+    position: absolute;
+    width: 1442px;
+    height: 6px;
+    left: 0px;
+    top: 0px;
+    background: #969696;
+}
+.compass{
+    position: absolute;
+    left: 44.59px;
+    right: 44.49px;
+    top: 15%;
+    bottom: 44.53%;
+    color: #969696;
+}
+.otkuda{
+    position: relative;
+    top: -20px;
+    left: 25px;
+}
+.geo{
+    position: absolute;
+    left: 215px;
+    right: 44.49px;
+    top: 15%;
+    bottom: 44.53%;
+    color: #969696;
+}
+.kuda{
+    position: relative;
+    top: -20px;
+    left: 25px;
+}
+.kalendar{
+    position: absolute;
+    left: 515px;
+    right: 44.49px;
+    top: 15%;
+    bottom: 44.53%;
+    color: #969696;
+}
+.data{
+    position: relative;
+    top: -20px;
+    left: 25px;
+}
+.human{
+    position: absolute;
+    left: 815px;
+    right: 44.49px;
+    top: 15%;
+    bottom: 44.53%;
+    color: #969696;
+}
+.turist{
+    position: relative;
+    top: -20px;
+    left: 25px;
+}
+.clock{
+    position: absolute;
+    left: 1015px;
+    right: 44.49px;
+    top: 15%;
+    bottom: 44.53%;
+    color: #969696;
+}
+.night{
+    position: relative;
+    top: -20px;
+    left: 25px;
+}
+.city{
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    left: 45px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    box-sizing: border-box;
+    border-radius: 2px;  
+    text-align: center; 
+}
+.strana{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 215px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    box-sizing: border-box;
+    border-radius: 2px;  
+    text-align: center;   
+}
+.otdo{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 515px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    box-sizing: border-box;
+    border-radius: 2px;  
+    text-align: center;    
+}
+.vzros{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 815px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    box-sizing: border-box;
+    border-radius: 2px;  
+    text-align: center;     
+}
+.noch{
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: 1015px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid rgba(46, 46, 46, 0.2);
+    box-sizing: border-box;
+    border-radius: 2px;  
+    text-align: center;   
+}
+.knopochka{
+    position: absolute;
+    width: 135px;
+    height: 50px;
+    left: 1215px;
+    right: 44.49px;
+    top: 60px;
+    background: #DD4053;
+    border-radius: 2px;
+}
+.nai{
+    position: absolute;
+    width: 135px;
+    height: 20px;
+    top: 23%;
+    font-family: Montserrat;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    color: #FFFFFF; 
+    height: 50px;
+}
+.ceraya{
+    position: absolute;
+    width: 1900px;
+    height: 605px;
+    left: 0px;
+    top: 2980px;
+    background: #F8F8F8;
+}
+.important{
+    position: absolute;
+    width: 548px;
+    height: 43px;
+    left: 199px;
+    top: 80px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 55px;
+    color: #232323;   
+}
+.vazh{
+    font-size: 45px;
+}
+.tire{
+    position: absolute;
+    width: 420px;
+    height: 1px;
+    left: 830px;
+    top: 105px;
+    background: #C4C4C4;   
+}
+.novosti{
+    position: absolute;
+    width: 135px;
+    height: 50px;
+    border-radius: 2px;
+    left: 1510px;
+    top: 80px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.novostkn{
+    position: absolute;
+    width: 135px;
+    height: 20px;
+    top: 23%;
+    font-family: Montserrat;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    color: #969696; 
+}
+.fotochka{
+    position: absolute;
+    width: 237px;
+    height: 170px;
+    left: 199px;
+    top: 27%;
+    background: url(./news_20170411_091637_1491891397\ 1.png);
+}
+.kalendarik{
+    position: absolute;
+    left: 0px;
+    top: 102%;
+    bottom: 0%;
+    color: #BBBBBB;
+}
+.RegentPorto{
+    position: absolute;
+    width: 195px;
+    height: 49px;
+    left: 0px;
+    top: 125%;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #323232;
+}
+.podrobnee{
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 0px;
+    top: 175%;
+    font-family: Open Sans;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.podrobneekn{
+    color:  #2C2C2C;
+    text-decoration: none;
+}
+.podrobneekn1{
+    color:  #2C2C2C;
+    
+}
+.podrobneekn:hover{
+    color: #DD4053;  
+}
+.podrobneekn1:hover{
+    color: #DD4053;  
+}
+.fotochka2{
+    position: absolute;
+    width: 237px;
+    height: 170px;
+    left: 603px;
+    top: 27%;
+    background: url(./p184j411emam71qc8tc16kjl125\ 1.png);
+}
+.fotochka3{
+    position: absolute;
+    width: 237px;
+    height: 170px;
+    left: 1006px;
+    top: 27%;
+    background: url(./1615470437_162\ 1.png);
+}
+.fotochka4{
+    position: absolute;
+    width: 237px;
+    height: 170px;
+    left: 1410px;
+    top: 27%;
+    background: url(./montenegro-hero\ 2.png);
+}
+.bibi-arrow-left-circle2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 50%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1710px;
+    top: 50%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle2:hover{
+    color: #202020;
+}
+.bibi-arrow-left-circle2:hover{
+    color: #202020;
+}
+.blog{
+    position: absolute;
+    width: 132px;
+    height: 50px;
+    left: 201px;
+    top: 3700px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    color: #232323;
+}
+.gorizont{
+    position: absolute;
+    width: 700px;
+    height: 1px;
+    left: 550px;
+    top: 3725px;
+    background: #C4C4C4;
+}
+.button{   
+    position: absolute;
+    width: 135px;
+    height: 50px;
+    border-radius: 2px;
+    left: 1510px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+    top: 3690px;
+}   
+.v{
+    position: absolute;
+    width: 135px;
+    height: 20px;
+    top: 23%;
+    font-family: Montserrat;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    color: #969696; 
+}
+.punktir{
+    position: absolute;
+    left: 1090px;
+    top: 3500px;
+    color: #1D1D1D;
+    font-size: 20px;
+}
+.bibi-record-circle-fill{
+    position: absolute;
+    left: 1460px;
+    top: 3570px;
+    background: #FFFFFF;
+    transform: rotate(26.05deg);
+    color: #1D1D1D;
+}
+.bibi-geo-alt-fill2{
+    position: absolute;
+    left: 1082px;
+    top: 3710px;
+    bottom: 0%;
+    color: #454545;
+}
+.plane{
+    position: absolute;
+    left: 1148px;
+    top: 3570px;
+    bottom: -89.76%;
+    color: #454545;
+    transform: rotate(-9.41deg)  
+}
+.whitediv{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 203px;
+    top: 3830px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.island{
+    position: absolute;
+    width: 270px;
+    height: 140px;
+    left: 15.8px;
+    top: 59px;
+    background: url(./Strani_Sri-Lanka_5-min\ 1.png);    
+}
+.chisla{
+    position: relative;
+    left: 5%;
+    top: 55%;
+    bottom: 14.29%;
+    color: #BBBBBB;
+}
+.eye{
+    position: absolute;
+    left: 70%;
+    top: 55%;
+    bottom: 30.22%;
+    color: #BBBBBB;
+}
+.Montenegro{
+    position: absolute;
+    width: 195px;
+    height: 49px;
+    left: 25px;
+    top: 70%;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #323232;
+}
+.moremore{
+    position: absolute;
+    width: 77px;
+    height: 24px;
+    left: 23px;
+    top: 90%;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+.bibi-arrow-right2{
+    position: relative;
+    top: -23px;
+    left: 100px;   
+}
+.bibi-arrow-right2:hover{
+    color: #DD4053; 
+}
+.whitediv2{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 603px;
+    top: 3830px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.island2{
+    position: absolute;
+    width: 270px;
+    height: 140px;
+    left: 15.8px;
+    top: 59px;
+    background: url(./104276fb11cd5d5a5a2b9ed233bde285\ 1.png);    
+}
+.whitediv3{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 1003px;
+    top: 3830px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.island3{
+    position: absolute;
+    width: 270px;
+    height: 140px;
+    left: 15.8px;
+    top: 59px;
+    background: url(./завантаження\ 1.png);    
+}
+.whitediv4{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 1403px;
+    top: 3830px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.island4{
+    position: absolute;
+    width: 270px;
+    height: 140px;
+    left: 15.8px;
+    top: 59px;
+    background: url(./1581002914_lagomaggiore2\ 1.png);    
+}
+.bibi-arrow-left-circle3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 435%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle3{
+    position: absolute;
+    width: 50px;
+    height:50px;
+    left: 1770px;
+    top: 435%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle3:hover{
+    color: #202020;
+}
+.bibi-arrow-left-circle3:hover{
+    color: #202020;
+}
+
+.red{
+
+    position: absolute;
+    width: 1900px;
+    height: 255px;
+    left: 0px;
+    top: 4300px;
+    background: #DD4053;
+}
+.wave{
+    position: absolute;
+    width: 406px;
+    height: 406px;
+    left: 1337px;
+    top: -63px;
+    opacity: 0.3;
+}
+.TravelCompany{
+    position: absolute;
+    width: 618px;
+    height: 55px;
+    left: 201px;
+    top: 50px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 55px;
+    color: #FFFFFF; 
+}
+.cont{
+    position: absolute;
+    width: 410px;
+    height: 50px;
+    left: 203px;
+    top: 130px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+.check{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+    }
+    .check + label{
+    cursor:pointer;
+    }
+    .check:not(checked){
+    position:absolute;
+    opacity:0;
+    }
+    .check:not(checked) + label{
+    position:relative;
+    padding: 0 0 0 60px;
+    top: 150px;
+    left: 670px; 
+    color: #FFFFFF;
+    }
+.check+label::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;   
+    position: relative;
+         
+}   
+.check:checked + label:before{
+    background:#2ebbde;
+    border-color: #FFFFFF;
+    background-color: #DA2032;
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+ }
+.check:checked + label:after {
+    
+    left:20px;
+}
+
+.check1{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+    }
+    .check1 + label{
+    cursor:pointer;
+    }
+    .check1:not(checked){
+    position:absolute;
+    opacity:0;
+    }
+    .check1:not(checked) + label{
+    position:relative;
+    padding: 0 0 0 60px;
+    top: 150px;
+    left: 770px; 
+    color: #FFFFFF;
+    }
+.check1+label::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;   
+    position: relative;        
+}   
+.check1:checked + label:before{
+    background:#2ebbde;
+    border-color: #FFFFFF;
+    background-color: #DA2032;
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+ }
+.check1:checked + label:after {
+    
+    left:20px;
+}
+.subscribe{
+    position: absolute;
+    width: 445px;
+    height: 52px;
+    left: 1060px;
+    top: 50px;
+    font-family: Montserrat;
+    line-height: 26px;
+    color: #EFEFEF;   
+}
+.knopochka2{
+    position: absolute;
+    width: 237px;
+    height: 50px;
+    left: 1274px;
+    top: 130px;
+    border: solid 2px #FFFFFF;
+    border-radius: 2px;
+    text-align: center;
+   
+}
+.nai2{
+    position: relative;
+    top: 7px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+.knopochka2:hover{
+    background: #FFFFFF;
+    
+}
+.nai2:hover{
+    color: #DA2032;
+}
+.greyworld{
+    position: absolute;
+    width: 1900px;
+    height: 1000px;
+    left: 0px;
+    top: 4555px;
+    background: #F8F8F8;
+}
+.world{
+    background: url(./Group.png);
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    bottom: 0%;
+    width: 1500px;
+    height: 500px;
+} 
+.why{
+    position: absolute;
+    width: 558px;
+    height: 55px;
+    left: 275px;
+    top: 75px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 55px;
+    color: #232323;
+    
+}
+.pryamoug{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 350px;
+    top: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.punktik{
+    position: absolute;
+    width: 377px;
+    height: 52px;
+    left: 23px;
+    top: 24px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 26px;
+    color: #656565;
+    
+}
+.pryamoug1{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 350px;
+    top: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamoug2{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 350px;
+    top: 600px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamou3{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 350px;
+    top: 800px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamoug4{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 1000px;
+    top: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamoug5{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 1000px;
+    top: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamoug6{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 1000px;
+    top: 600px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.pryamoug7{
+    position: absolute;
+    width: 505px;
+    height: 165px;
+    left: 1000px;
+    top: 800px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+
+.galochka{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:20px;
+    height:20px;
+}
+.cgalochka:not(checked){
+    position:absolute;
+    opacity:0;
+}
+    .galochka:not(checked){
+    position:relative;
+    padding: 0 0 0 60px;
+    top: 150px;
+    left: 870px; 
+    color: #FFFFFF;
+}
+.galochka::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;  
+    position: relative;
+         
+}   
+.galochka:checked:before{
+    border-color: #FFFFFF;
+    background-color: #DA2032;
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+ }
+
+
+ .cityimg{
+    position: absolute;
+    width: 1900px;
+    height: 593px;
+    left: 0px;
+    top: 5555px;
+    background: url(./Rovinj-15\ 1.png);
+    
+ }
+ .offer{
+    position: absolute;
+    width: 156px;
+    height: 137px;
+    left: 1000px;
+    top: 115px;
+    background: url(./unnamed1\ 2.png);
+    transform: rotate(0.16deg);
+ }
+ .predstavitel{
+    position: absolute;
+    width: 497px;
+    height: 96px;
+    left: 200px;
+    top: 107px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 55px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+ }
+ .dlyavas{
+    position: absolute;
+    width: 554px;
+    height: 28px;
+    left: 200px;
+    top: 233px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    
+ }
+ .baton{
+    position: absolute;
+    width: 270px;
+    height: 60px;
+    left: 200px;
+    top: 370px;
+    border-radius: 2px;   
+    border: solid 2px #FFFFFF;
+    text-align: center;
+ }
+ .nai3{
+    position: relative;
+    top: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+}
+.baton:hover{
+    background: #FFFFFF;
+    
+}
+.nai3:hover{
+    color: #969696;
+}
+.obespech{
+    position: absolute;
+    width: 1900px;
+    height: 1000px;
+    left: 0px;
+    top: 6148px;
+    
+}
+
+.shrift{
+    position: absolute;
+    left: 200px;
+    top: 250px;
+    bottom: 77.35%;
+    font-family: Mistral;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31px;
+    line-height: 42px;
+    color: #DD4053;  
+}
+.relax{
+    position: absolute;
+    left: 200px;
+    top: 350px;
+    width: 795px;
+    bottom: 65.87%;
+    font-family: Montserrat;
+    line-height: 42px;
+    color: #232323; 
+}
+.spez{
+    position: absolute;
+    left: 1350px;
+    top: 350px;
+    bottom: 65.23%;
+    width: 250px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #DD4053;   
+}
+.greyflag{
+    position: absolute;
+    left: 200px;
+    top: 550px;
+    bottom: 19.78%;
+    background: #F8F8F8;   
+    width: 300px;
+    height: 250px;
+}
+.flag{
+    position: absolute;
+    left: 20px;
+    top: -45px;
+}
+.hor{
+    position: absolute;
+    left: 100px;
+    top: 45px;
+    font-family: Montserrat;
+    line-height: 55px;
+    font-size: 26px;
+    color: #232323;
+}
+.knopochka4{
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    left: 28px;
+    top: 145px;
+    border-radius: 2px;   
+    border: solid 2px #969696;
+    text-align: center;
+ }
+.nai4{
+    position: absolute;
+    font-family: Open Sans;
+    font-size: 20px;
+    color: #969696;
+    top: 9px;
+    left: 70px;
+    text-decoration: none;
+    font-weight: bold;
+    height: 50px;
+}
+.knopochka4:hover{
+    background: #969696;
+}
+.nai4:hover{
+    color: #FFFFFF;
+}
+.greyflag2{
+    position: absolute;
+    left: 600px;
+    top: 550px;
+    bottom: 19.78%;
+    background: #F8F8F8;   
+    width: 300px;
+    height: 250px;
+}
+.greyflag3{
+    position: absolute;
+    left: 1000px;
+    top: 550px;
+    bottom: 19.78%;
+    background: #F8F8F8;   
+    width: 300px;
+    height: 250px;
+}
+.greyflag4{
+    position: absolute;
+    left: 1400px;
+    top: 550px;
+    bottom: 19.78%;
+    background: #F8F8F8;   
+    width: 300px;
+    height: 250px;
+}
+.drsrani{
+    position: absolute;
+    left: 200px;
+    top: 850px;
+    width: 485px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #252525;
+}
+.dr{
+    color: #DD4053;
+    text-decoration: underline;
+}
+.relaxwith{
+    position: absolute;
+    left: 1000px;
+    top: 850px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;   
+    width: 506px;
+    height: 100px;
+}
+.tt5{
+    position: absolute;
+    top: 20px;
+    left: 17px;
+    font-size: 20px;
+}
+
+.konserzh{
+    position: absolute;
+    width: 1900px;
+    height: 1320px;
+    left: 0px;
+    top: 7148px;
+    background: #F8F8F8;
+}
+.zavityshki{
+    position: absolute;
+    left: 1600px;
+    top: 6150px;
+}
+.mont{
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: -130px;
+    top: 44px;
+    font-family: Mistral;
+    font-size: 31px;
+    color: #BBBBBB;
+}
+.zavityshki2{
+    position: absolute;
+    left: 0px;
+    top: 6500px;
+}
+.mont2{
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: 88px;
+    top: 90px;
+    font-family: Mistral;
+    font-size: 31px;
+    color: #BBBBBB;
+}
+.zavityshki3{
+    position: absolute;
+    left: 1765px;
+    top: 7072px;
+}
+.mont3{
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: -75px;
+    top: -30px;
+    font-family: Mistral;
+    font-size: 31px;
+    color: #BBBBBB;
+}
+.zavityshki4{
+    position: absolute;
+    left: 0px;
+    top: 7600px;
+}
+.mont4{
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: 35px;
+    top: -40px;
+    font-family: Mistral;
+    font-size: 31px;
+    color: #BBBBBB;
+}
+.ekskluziv{
+    position: absolute;
+    width: 744px;
+    height: 75px;
+    left: 200px;
+    top: 66px;
+    font-family: Montserrat;
+    line-height: 42px;
+    color: #262626; 
+}
+.cherta{
+    position: absolute;
+    width: 735px;
+    height: 1px;
+    left: 198px;
+    top: 391px;
+    background: #C4C4C4;
+}
+.blok1{
+    position: absolute;
+    width: 304px;
+    height: 140px;
+    left: 199px;
+    top: 422px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 17px;
+    color: #656565;
+}
+.blok2{
+    position: absolute;
+    width: 304px;
+    height: 140px;
+    left: 620px;
+    top: 422px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 17px;
+    color: #656565;
+}
+.pole{
+    position: absolute;
+    width: 650px;
+    height: 485px;
+    left: 1250px;
+    top: 199px;
+    background: url(./SloveniaHeader.png);
+}
+.hends{
+    position: absolute;
+    width: 328px;
+    height: 402px;
+    left: 1000px;
+    top: 225px;
+    background: url(./gettyimages-1301000495-2048x20481\ 1.png);   
+}
+.redkrug{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 275px;
+    top:50px;
+    background: #DD4053;  
+    border-radius: 50%; 
+    text-align: center;
+}
+.Concierce{
+    position: relative;
+    width: 73px;
+    height: 42px;
+    left: 14px;
+    top: 26px;
+    font-family: Mistral;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-18.82deg);
+}
+.secondpart{
+    position: absolute;
+    width: 1900px;
+    height: 622px;
+    left: 0px;
+    top: 696px;
+    background: linear-gradient(180deg, #F8F8F8 0%, rgba(248, 248, 248, 0) 100%), url(./Mask\ Group2.png);
+}
+.predostavim{
+    position: absolute;
+    width: 611px;
+    height: 60px;
+    left: 199px;
+    top: -25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #323232;   
+}
+.odin{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 280px;
+    top: 70px;
+}
+.nolik{
+    font-size: 30px;
+    line-height: 28px;
+    color: #717171; 
+    position: relative;
+    top: 52px;
+    left: -75px;
+}
+.otcherk{
+    position: absolute;
+    width: 600px;
+    height: 2px;
+    left: -70px;
+    top: 115px;
+    background: #E3E3E3;
+}
+.odin2{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 280px;
+    top: 170px;
+}
+.odin3{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 280px;
+    top: 270px;
+}
+.odin4{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 280px;
+    top: 370px;
+}
+.odin5{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 280px;
+    top: 470px;
+}
+.odin6{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 1050px;
+    top: 70px;
+}
+.odin7{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 1050px;
+    top: 170px;
+}
+.odin8{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 1050px;
+    top: 270px;
+}
+.odin9{
+    position: absolute;
+    width: 600px;
+    height: 200px;
+    left: 1050px;
+    top: 370px;
+}
+.sea{
+    position: absolute;
+    width: 1900px;
+    height: 627px;
+    left: 0px;
+    top: 8465px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%), url(./OO_PM_Drone_ChurchIsland_Twilight_0867_MASTER\ 1.png);   
+}
+.poluchka{
+    position: absolute;
+    width: 626px;
+    height: 110px;
+    left: 200px;
+    top: 130px;
+    font-family: Montserrat;
+    color: #FFFFFF;  
+}
+.ostav{
+    position: absolute;
+    width: 659px;
+    height: 60px;
+    left: 200px;
+    top: 300px;
+    font-family: Montserrat;
+    color: #EFEFEF;
+}
+.kvad{
+    position: absolute;
+    width: 275px;
+    height: 180px;
+    left: 1260px;
+    top: 170px;
+    background: rgba(255, 255, 255, 0.15);
+}
+.textkv{
+    position: absolute;
+    width: 240px;
+    height: 129px;
+    left: 25px;
+    top: 16px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 26px;
+    color: #FFFFFF; 
+}
+.vosklznak{
+    position: absolute;
+    width: 92px;
+    height: 55px;
+    left: 1215px;
+    top: 170px;  
+}
+.uname{
+    position: absolute;
+    width: 270px;
+    height: 50px;
+    left: 201px;
+    top: 450px;
+    background: rgba(25, 28, 32, 0.3);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+.poch{
+    position: absolute;
+    width: 270px;
+    height: 50px;
+    left: 501px;
+    top: 450px;
+    background: rgba(25, 28, 32, 0.3);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #FFFFFF;
+}
+.tel{
+    position: absolute;
+    width: 270px;
+    height: 50px;
+    left: 801px;
+    top: 450px;
+    background: rgba(25, 28, 32, 0.3);
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #FFFFFF;   
+}
+.batonchik{
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    left: 1101px;
+    top: 450px;
+    text-align: center;
+    border: solid 1px #FFFFFF;
+}
+.nai5{
+    position: relative;
+    color: #C4C4C4;
+    text-decoration: none;
+    top: 10px;
+    font-weight: bold;
+}
+.batonchik:hover{
+    background: #FFFFFF;
+}
+.nai5:hover{
+    color:  #969696;
+}
+.cheliki{
+   position: absolute;
+   width: 1900px;
+   height: 1320px;
+   left: 0px;
+   top: 9091px;
+   background: #FFFFFF;
+}
+.ziphri{
+    position: absolute;
+    width: 220px;
+    height: 208px;
+    left: 200px;
+    top: 130px;
+    font-family: Montserrat;
+    color: #232323;  
+}
+.b{
+    color: #DD4053;
+}
+.nacluch{
+
+    position: absolute;
+    width: 241px;
+    height: 90px;
+    left: 200px;
+    top: 390px;
+    font-family: Montserrat;
+    color: #898989;
+}
+.ty{
+    font-size: 20px;
+}
+.strelka{
+    position: absolute;
+    width: 43px;
+    height: 92px;
+    left: 443px;
+    top: 300px;
+    transform: rotate(1.32deg);
+}
+.italia1{
+    position: absolute;
+    width: 348px;
+    height: 410px;
+    left: 1520px;
+    top: 80px;    
+}
+.puple{
+    position: absolute;
+    width: 741px;
+    height: 330px;
+    left: 830px;
+    top: 200px;
+}
+.dokaz{
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+.drob{
+    position: absolute;
+    width: 300px;
+    height: 1px;
+    left: 0px;
+    top: 80px;
+    background: rgba(35, 35, 35, 0.3);   
+}
+.chislitel{
+    position: absolute;
+    width: 182px;
+    height: 55px;
+    left: 1px;
+    top: 7px;
+    font-family: Montserrat;
+    font-size: 60px;
+    color: #262626;
+      
+}
+.znamenatel{
+    position: absolute;
+    width: 304px;
+    height: 84px;
+    left: 0px;
+    top: 110px;
+    font-family: Montserrat;
+    font-size: 21px;
+    color: #656565;
+}
+.dokaz2{
+    position: absolute;
+    top: 600px;
+    left: 700px;
+}
+.dokaz3{
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+}
+.dokaz4{
+    position: absolute;
+    top: 900px;
+    left: 200px;
+}
+.dokaz5{
+    position: absolute;
+    top: 900px;
+    left: 700px;
+}
+.dokaz6{
+    position: absolute;
+    top: 900px;
+    left: 1200px;
+}
+.dekor{
+    position: absolute;
+    top: 630px;   
+    left: 1765px;
+    bottom: 40.09%;
+}
+.geo-alt-fill{
+    position: relative;
+    left: 90px;
+    top: -20px;   
+}
+.partner{
+    position: absolute;
+    width: 1900px;
+    height: 650px;
+    left: 0px;
+    top: 10411px;
+    background: #F8F8F8;
+}
+.par{
+    position: absolute;
+    width: 344px;
+    height: 101px;
+    left: 300px;
+    top: 112px;
+    font-family: Montserrat;
+    color: #232323;
+    line-height: 68px;
+}
+.tex1{
+    position: absolute;
+    width: 417px;
+    height: 86px;
+    left: 1100px;
+    top: 112px;
+    font-family: Montserrat;
+    color: #656565; 
+}
+.tex2{
+    position: absolute;
+    width: 417px;
+    height: 86px;
+    left: 1100px;
+    top: 250px;
+    font-family: Montserrat;
+    color: #656565; 
+}
+.s{
+    font-size: 20px;
+}
+.gradient{
+    position: absolute;
+    width: 1900px;
+    height: 356px;
+    left: 0px;
+    top: 435px;
+    background: linear-gradient(180deg, #F8F8F8 17.5%, rgba(248, 248, 248, 0.1) 100%), url(./1615470437_162\ 3.png);   
+}
+.whtdiv{
+    position: absolute;
+    width: 1380px;
+    height: 175px;
+    left: 250px;
+    top: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);
+}
+.wall1{
+    position: absolute;
+    width: 1px;
+    height: 175px;
+    left: 230px;
+    border: 1px solid rgba(196, 196, 196, 0.5);  
+}
+.wall2{
+    position: absolute;
+    width: 1px;
+    height: 175px;
+    left: 460px;
+    border: 1px solid rgba(196, 196, 196, 0.5);  
+}
+.wall3{
+    position: absolute;
+    width: 1px;
+    height: 175px;
+    left: 690px;
+    border: 1px solid rgba(196, 196, 196, 0.5);  
+}
+.wall4{
+    position: absolute;
+    width: 1px;
+    height: 175px;
+    left: 920px;
+    border: 1px solid rgba(196, 196, 196, 0.5);  
+}
+.wall5{
+    position: absolute;
+    width: 1px;
+    height: 175px;
+    left: 1150px;
+    border: 1px solid rgba(196, 196, 196, 0.5);  
+}
+.kar1{
+    position: absolute;
+    width: 150px;
+    height: 48px;
+    left: 40px;
+    top: 65px;
+}
+.kar2{
+    position: absolute;
+    width: 160px;
+    height: 77px;
+    left: 265px;
+    top: 52px;
+}
+.kar3{
+    position: absolute;
+    width: 129px;
+    height: 85px;
+    left: 513px;
+    top: 45px;
+}
+.kar4{
+    position: absolute;
+    width: 150px;
+    height: 90px;
+    left: 730px;
+    top: 48px;
+}
+
+.kar5{
+    position: absolute;
+    width: 150px;
+    height: 48px;
+    left: 960px;
+    top: 65px;
+}
+.kar6{
+    position: absolute;
+    width: 170px;
+    height: 110px;
+    left: 1185px;
+    top: 34px;
+}
+.souz{
+    position: absolute;
+    top: 11600px;
+    left: 0px;
+    width: 1900px;
+    height: 1200px;
+    background: #FFFFFF;
+}
+.zagolovok{
+    position: absolute;
+    width: 700px;
+    height: 161px;
+    left: 1000px;
+    top: -200px;
+    font-family: Montserrat;
+    color: #232323;
+}
+.podzagolovok{
+    position: absolute;
+    width: 595px;
+    height: 120px;
+    left: 1000px;
+    top: 60px;
+    font-family: Montserrat;
+    
+    color: #656565; 
+}
+.r{
+    font-size: 20px;
+}
+.obkartinka{
+    position: absolute;
+    width: 220px;
+    height: 470px;
+    left: 0px;
+    top: 100px;
+    background: url(./Mask\ Group8.png);   
+}
+.handshaking{
+    position: absolute;
+    width: 500px;
+    height: 524px;
+    left: 194px;
+    top: -225px;
+    background: url(./hr-handshaking-successful-candidate-getting-hired-new-job-closeup\ 1.png);
+}
+.sotr{
+    position: absolute;
+    width: 1087px;
+    height: 30px;
+    left: 202px;
+    top: 450px;
+    font-family: Montserrat;
+    color: #323232;
+}
+.sotrudnichat{
+    position: absolute;
+    height: 56px;
+    width: 210px;
+    left: 1382px;
+    top: 450px;
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;
+    text-align: center;
+}
+.nai45{
+    position: absolute;
+    top: 17px;
+    left: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #969696;
+    text-decoration: none;   
+}
+.sotrudnichat:hover{
+    background:#969696;
+}
+.nai45:hover{
+    color: #FFFFFF;
+}
+.table1{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 200px;
+    top: 600px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.verh{
+    position: absolute;
+    width: 382px;
+    height: 22px;
+    left: 32px;
+    top: 5px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 34px;
+    color: #323232;
+}
+.seredina{
+    position: absolute;
+    width: 277px;
+    height: 78px;
+    left: 31px;
+    top: 115px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 26px;
+    color: #848484;    
+}
+.niz{
+    position: absolute;
+    width: 22px;
+    height: 28px;
+    left: 410px;
+    top: 266px;
+    font-family: Montserrat;
+    font-size: 19px;
+    color: #717171;
+        
+}
+.table2{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 650px;
+    top: 600px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.table3{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 1110px;
+    top: 600px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.table4{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 200px;
+    top: 900px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.table5{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 650px;
+    top: 900px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.table6{
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 1110px;
+    top: 900px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.07);   
+}
+.vec{
+    position: absolute;
+    width: 196px;
+    height: 336px;
+    left: 1740px;
+    top: 900px; 
+}.redkrug1{
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    left: 151px;
+    top: 208px;
+    background: #DD4053;  
+    border-radius: 50%; 
+    text-align: center;
+}
+.Concierce1{
+    position: relative;
+    width: 73px;
+    height: 42px;
+    left: 12px;
+    top: 40px;
+    font-family: Mistral;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-18.82deg);
+}
+.bibi-arrow-left-circle4{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 80px;
+    top: 80%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle4{
+    position: absolute;
+    width: 50px;
+    height:50px;
+    left: 1770px;
+    top: 80%;
+    color: #C6C6C6;
+    box-sizing: border-box;
+}
+.bibi-arrow-right-circle4:hover{
+    color: #202020;
+}
+.bibi-arrow-left-circle4:hover{
+    color: #202020;
+}
+.beach{
+    position: absolute;
+    width: 1900px;
+    height: 594px;
+    left: 0px;
+    top: 12870px;
+    background: url(./GettyImages-685890576-2200x880\ 1.png);    
+}
+.travelimg{
+    position: absolute;
+    width: 846px;
+    height: 55px;
+    left: 560px;
+    top: 120px;
+       
+}
+.natravel{
+    position: absolute;
+    width: 682px;
+    height: 110px;
+    left: 60px;
+    top: 19px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;   
+}
+.end{
+    position: absolute;
+    width: 1900px;
+    height: 1091px;
+    left: 0px;
+    top: 13464px;
+    background: linear-gradient(180deg, #F8F8F8 -12.15%, #E8E8E8 100%);   
+}
+.whitekv{
+    position: absolute;
+    width: 1400px;
+    height: 630px;
+    left: 245px;
+    top: -160px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.07);
+}
+.vertikal{
+    position: absolute;
+    width: 1px;
+    height: 386px;
+    left: 100px;
+    top: 110px;
+    background: #C4C4C4;    
+}
+.heart5{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 75px;
+    top: 80px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    background: #fff; 
+}
+.bibi-heart-fill5{
+    position: absolute;
+    left: 33%;
+    top: 38.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.chek5{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 75px;
+    top: 280px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background: #fff;  
+}  
+.bibi-person-check-fill5{
+    position: absolute;
+    left: 39%;
+    top: 34.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+} 
+.star5{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 75px;
+    top: 475px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%;  
+    background: #fff;
+}
+.bibi-star-fill5{
+    position: absolute;
+    left: 35%;
+    top: 34.85%;
+    bottom: 0%;
+    color: #969696; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.text01{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 160px;
+    top: 80px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.text02{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 160px;
+    top: 280px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.text03{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 160px;
+    top: 475px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.ludi{  
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 777px;
+    top: 80px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    background: #fff; 
+}
+.vertikal2{
+    position: absolute;
+    width: 1px;
+    height: 386px;
+    left: 800px;
+    top: 110px;
+    background: #C4C4C4;    
+}
+.ludi2{  
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 777px;
+    top: 280px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    background: #fff; 
+}
+.ludi3{  
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 777px;
+    top: 475px;
+    border: 1.2px dashed #969696;
+    box-sizing: border-box;   
+    border-radius: 50%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    background: #fff; 
+}
+.text04{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 870px;
+    top: 80px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.text05{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 870px;
+    top: 280px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.text06{
+    position: absolute;
+    width: 466.2px;
+    height: 103.3px;
+    left: 870px;
+    top: 475px;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 34px;
+    color: #2C2C2C;
+}
+.posledniy{
+    position: absolute;
+    width: 508px;
+    height: 110px;
+    left: 250px;
+    top: 591px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+    color: #232323; 
+}
+.subscribe2{
+    position: absolute;
+    width: 572px;
+    height: 60px;
+    left: 978px;
+    top: 591px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 44px;
+    color: #232323;   
+}
+.pochend{
+    position: absolute;
+    width: 410px;
+    height: 50px;
+    left: 250px;
+    top: 800px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #969696;
+    box-sizing: border-box;
+    border-radius: 2px;   
+    color: #969696; 
+}
+.knopochka7{
+    position: absolute;
+    width: 237px;
+    height: 50px;
+    left: 1420px;
+    top: 800px;
+    background: #DD4053;
+    border-radius: 2px;
+}
+.nai7{
+    position: absolute;
+    width: 94px;
+    height: 20px;
+    left: 67px;
+    top: 13px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.mountains{
+    position: absolute;
+    width: 1900px;
+    height: 541px;
+    left: 0px;
+    top: 920px;
+    background: linear-gradient(180deg, #ECECEC 0%, rgba(232, 232, 232, 0) 51.87%, #FFFFFF 100%), url(./SloveniaHeader\ 3.png);    
+}
+.valantaend{
+    position: absolute;
+    width: 230px;
+    height: 127px;
+    left: 250px;
+    top: 1130px;
+    background: url(./logo\ \(1\)\ 2.png);
+    background-blend-mode: darken;    
+}
+.sp1{
+    position: absolute;
+    width: 145px;
+    top: 1115px;
+    left: 700px;
+    line-height: 37px;
+}
+.sp2{
+    position: absolute;
+    width: 104px;
+    top: 1115px;
+    left: 950px;
+    line-height: 37px;
+}
+.tyt{
+    color: #3E3E3E;
+    text-decoration: none;
+    font-size: 23px;
+}
+.rezhim{
+    position: absolute;
+    width: 200px;
+    top: 1115px;
+    left: 1145px;
+    line-height: 37px;   
+}
+.tyta{
+    font-size: 23px;
+    color: #3E3E3E; 
+}
+.tyta1{
+    font-size: 20px;
+    color: #3E3E3E;
+}
+.nomerok{
+    position: absolute;
+    width: 200px;
+    top: 1100px;
+    left: 1405px;
+    line-height: 37px;     
+}
+.nom1{
+    font-size: 21px;
+    color: #3E3E3E;     
+}
+.nom2{
+    color: #3E3E3E;
+    text-decoration: none;
+    font-size: 15px;   
+}
+.chertaend{
+    position: absolute;
+    width: 1350px;
+    height: 1px;
+    left: 250px;
+    top: 1300px;
+    background: rgba(29, 29, 29, 0.2);
+    border-radius: 2px;   
+}
+.god{
+    position: absolute;
+    width: 377px;
+    height: 18px;
+    left: 250px;
+    top: 1350px;
+    font-size: 17px;
+    line-height: 18px;
+    color: rgba(62, 62, 62, 0.5);
+}
+.ikonki1{
+    position: absolute;
+    left: 1000px;
+    top: 1300px;
+    width: 100px;
+    line-height: 7px;  
+}
+.check0{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+}
+.check0 + label{
+    cursor:pointer;
+}
+.check0:not(checked){
+    position:absolute;
+    opacity:0;
+}
+.check0:not(checked) + label{
+    position:relative;
+    padding: 0 0 0 60px;
+    top: 820px;
+    left: 670px; 
+    color: #202020;
+}
+.check0+label::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 1px solid #202020;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;   
+    position: relative;
+         
+}   
+.check0:checked + label:before{
+    background:#2ebbde;
+    border-color: #202020;
+    background-color: #DA2032;
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+ }
+.check0:checked + label:after {
+    
+    left:20px;
+}
+
+.check0{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+}
+.check0 + label{
+    cursor:pointer;
+}
+.check01{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+}
+.check01 + label{
+    cursor:pointer;
+}
+.check01:not(checked){
+    position:absolute;
+    opacity:0;
+}
+.check01:not(checked) + label{
+    position:relative;
+    padding: 0 0 0 60px;
+    top: 820px;
+    left: 870px; 
+    color: #202020;
+}
+.check01+label::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border: 1px solid #202020;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50% 50%;   
+    position: relative;
+         
+}   
+.check01:checked + label:before{
+    background:#2ebbde;
+    border-color: #202020;
+    background-color: #DA2032;
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+ }
+.check01:checked + label:after {
+    
+    left:20px;
+}
+
+.check01{
+    vertical-align:top;
+    margin:0 3px 0 0;
+    width:10px;
+    height:10px;
+}
+.check01 + label{
+    cursor:pointer;
+}
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+   
+
+
