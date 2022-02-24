@@ -1,0 +1,44 @@
+.gdebaton{
+    position: absolute;
+    top: 150px;
+    left: 460px;
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+}
+.b{
+    background: rgb(134, 28, 99);
+    height: 40px;
+    width: 150px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.b:hover{
+    background: rgb(89, 3, 170);
+}
+.faind{
+    position: absolute;
+    left: 800px;
+    color: rgb(6, 179, 121);
+}
+.box{
+    background: url(../img/dc86x9BRi.jpg);
+    background-size: 980px 710px;
+    position: absolute;
+    width: 980px;
+    height: 710px;
+    top: 300px;
+    left: 450px;
+}
+.block{
+    background: url(../img/pngwing.com\ \(1\).png);
+    position: relative;
+    background-size: 160px 160px;
+    width: 160px;
+    height: 160px;
+    left: 85px;
+    top: 54px;
+}
